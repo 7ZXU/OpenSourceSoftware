@@ -1,0 +1,25 @@
+{
+  "name": "zxulab7",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/7ZXU/SL-skku-stat.git"
+  },
+  "bin": {
+    "stat": "./main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/7ZXU/SL-skku-stat/issues"
+  },
+  "homepage": "https://github.com/7ZXU/SL-skku-stat#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
